@@ -6,6 +6,7 @@
 #include <time.h>
 using namespace std;
 
+// This is the buffer size to store the message in the queue
 #define BUF_SIZE 1000
 
 const std::string currentDateTime() {
